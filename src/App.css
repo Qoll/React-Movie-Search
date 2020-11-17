@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+*{
+  font-family: Montserrat, 'sans-serif';
+  color:#343a40;
+}
+
 .App {
   text-align: center;
 }
@@ -14,6 +21,7 @@
 }
 
 .App-header {
+  margin-top: 40px;
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
